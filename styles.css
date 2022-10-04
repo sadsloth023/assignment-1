@@ -1,0 +1,27 @@
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.25;
+    background-color: #FFF5E4;
+    padding: 3% 15%;
+}
+
+
+
+
+.content{
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+}
+
+
+.personas{
+    width: 50%;
+    height: auto;
+    margin: 0.5% 2%;
+}
+
+.storyboard{
+    width: 100%;
+}
